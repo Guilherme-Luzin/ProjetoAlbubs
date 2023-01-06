@@ -1,0 +1,20 @@
+.bemVindo {
+    text-align: center;
+    padding-bottom: 15px;
+    padding-top: 150px;
+}
+
+.input {
+    width: 20%;
+    border-color: rgb(247, 247, 247);
+    background-color: rgb(247, 247, 247);
+}
+
+.form {
+    padding-left: 550px;
+}
+
+.body {
+    height: 1000px;
+    background-color: aquamarine;
+}
